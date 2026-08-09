@@ -1,0 +1,10 @@
+# IDE Settings
+.idea/
+.settings.json
+
+# Build outputs
+bin/
+obj/
+
+# IDE user-specific settings (Rider/ReSharper)
+*.DotSettings.user
